@@ -55,15 +55,3 @@
 
 ### The Black-Scholes Model
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{1}{2}\sigma^2S^2&space;\frac{\partial^2V}{\partial&space;S}&plus;rS&space;\frac{\partial&space;V}{\partial&space;S}&space;&plus;&space;\frac{\partial&space;V}{\partial&space;t}&space;-rV&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\frac{1}{2}\sigma^2S^2&space;\frac{\partial^2V}{\partial&space;S}&plus;rS&space;\frac{\partial&space;V}{\partial&space;S}&space;&plus;&space;\frac{\partial&space;V}{\partial&space;t}&space;-rV&space;=&space;0" title="\frac{1}{2}\sigma^2S^2 \frac{\partial^2V}{\partial S}+rS \frac{\partial V}{\partial S} + \frac{\partial V}{\partial t} -rV = 0" /></a>
-
----
-
-### Big O Notation
-| Name | Notation |
-|-|-|
-| Big O (micron) | <a href="https://www.codecogs.com/eqnedit.php?latex=\mathcal{O}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\mathcal{O}" title="\mathcal{O}" /></a> or <a href="https://www.codecogs.com/eqnedit.php?latex=O" target="_blank"><img src="https://latex.codecogs.com/svg.latex?O" title="O" /></a>
-| Big Omega | <a href="https://www.codecogs.com/eqnedit.php?latex=\Omega" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\Omega" title="\Omega" /></a>
-| Big Theta | <a href="https://www.codecogs.com/eqnedit.php?latex=\Theta" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\Theta" title="\Theta" /></a>
-| Small O (micron) | <a href="https://www.codecogs.com/eqnedit.php?latex=o" target="_blank"><img src="https://latex.codecogs.com/svg.latex?o" title="o" /></a>
-| Small Omega | <a href="https://www.codecogs.com/eqnedit.php?latex=\omega" target="_blank"><img src="https://latex.codecogs.com/svg.latex?\omega" title="\omega" /></a>
-| On the order of | <a href="https://www.codecogs.com/eqnedit.php?latex=sim" target="_blank"><img src="https://latex.codecogs.com/svg.latex?sim" title="sim" /></a>
